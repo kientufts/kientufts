@@ -9,7 +9,7 @@ This is the place where I break things 🤣
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:letrungkien1991@gmail.com)
 
-## 💻 My Tech Stack:
+## 💻 My Tech Stack
 
 [![java, JavaScript, bash, MySQL, Maven, Linux, Python](https://skillicons.dev/icons?i=java,js,bash,mysql,maven,linux,py)](https://skillicons.dev)
 
