@@ -1,6 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Kien.</h1>
 
-<p></br> I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197473.png" width="13"/> <b>Haiphong, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628635.png" width="13"/> <b>Tucson, Az</b>. </p>
+This is the place where I break things 🤣
+- 🔭  I’m currently working on something cool 😉
+
+## ✨&nbsp; About Me
+
+<p></br> I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197473.png" width="13"/> <b>Haiphong, Vietnam</b>, living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628635.png" width="13"/> <b>Tucson, Az</b>. </p>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:letrungkien1991@gmail.com)
 
