@@ -5,7 +5,7 @@ This is the place where I break things 🤣
 
 ## ✨&nbsp; About Me
 
-<p></br> I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197473.png" width="13"/> <b>Haiphong, Vietnam</b>, living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628635.png" width="13"/> <b>Tucson, Az</b>. </p>
+<p> I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197473.png" width="13"/> <b>Haiphong, Vietnam</b>, living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628635.png" width="13"/> <b>Tucson, Az</b>. </p>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:letrungkien1991@gmail.com)
 
