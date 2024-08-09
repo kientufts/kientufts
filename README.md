@@ -8,8 +8,6 @@
 
 [![java, JavaScript, bash, MySQL, Maven, Linux, Python](https://skillicons.dev/icons?i=java,js,bash,mysql,maven,linux,py)](https://skillicons.dev)
 
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
-
 ## 🏆 My Github Stats - not so good eh? come back in 3 months :)
 
 <p>
