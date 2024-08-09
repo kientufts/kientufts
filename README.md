@@ -13,7 +13,7 @@ This is the place where I break things 🤣
 
 [![java, JavaScript, bash, MySQL, Maven, Linux, Python](https://skillicons.dev/icons?i=java,js,bash,mysql,maven,linux,py)](https://skillicons.dev)
 
-## 🏆 My Github Stats - not so good eh? come back in 3 months :)
+## 🏆 My Github Stats
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kientufts&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
