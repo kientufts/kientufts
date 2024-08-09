@@ -16,3 +16,11 @@
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kientufts&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kientufts&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
+
+## 🎮 When I'm AFK:
+
+<img src="https://cdn-icons-png.flaticon.com/128/2112/2112184.png" width="60"/> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/2410/2410375.png" width="60"/> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/983/983533.png" width="60"/> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/3098/3098183.png" width="60"/> &nbsp;
+
