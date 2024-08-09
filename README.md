@@ -27,3 +27,6 @@ This is the place where I break things 🤣
 <img src="https://cdn-icons-png.flaticon.com/128/983/983533.png" width="60"/> &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/3098/3098183.png" width="60"/> &nbsp;
 
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
