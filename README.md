@@ -20,7 +20,7 @@ This is the place where I break things 🤣
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kientufts&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## 🎮 When I'm AFK:
+## 🎮 When I'm AFK
 
 <img src="https://cdn-icons-png.flaticon.com/128/2112/2112184.png" width="60"/> &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/2410/2410375.png" width="60"/> &nbsp;
