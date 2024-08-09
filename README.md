@@ -4,6 +4,10 @@
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:letrungkien1991@gmail.com)
 
+## 💻 My Tech Stack:
+
+[![java, JavaScript, bash, MySQL, Maven, Linux, Python](https://skillicons.dev/icons?i=java,js,bash,mysql,maven,linux,py)](https://skillicons.dev)
+
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 📈 my github stats - not so good eh? come back in 3 months :)
