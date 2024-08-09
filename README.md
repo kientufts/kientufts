@@ -2,7 +2,7 @@
 
 <p></br> I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197473.png" width="13"/> <b>Haiphong, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628635.png" width="13"/> <b>Tucson, Az</b>. </p>
 
-reach me at [email](mailto:kevinfenway24@gmail.com) :)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:letrungkien1991@gmail.com)
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
